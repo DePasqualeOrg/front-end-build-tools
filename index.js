@@ -10,7 +10,7 @@ import { exec } from 'child_process';
 import nunjucks from 'nunjucks';
 import pretty from 'pretty';
 
-import sass from 'sass'; // Dart Sass is the standard for the future, but slower
+import * as sass from 'sass'; // Dart Sass is the standard for the future, but slower
 // import sass from 'node-sass'; // node-sass is depricated but still maintained and faster
 import autoprefixer from 'autoprefixer';
 import postcss from 'postcss';
