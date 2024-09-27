@@ -1,6 +1,6 @@
 {
   "name": "@depasquale/front-end-build-tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Front-end build tools",
   "author": "Anthony DePasquale (anthony@depasquale.org)",
   "main": "index.js",
